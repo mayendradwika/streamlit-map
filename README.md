@@ -23,4 +23,4 @@ Aplikasi web interaktif berbasis Python untuk menampilkan dan menandai lokasi di
 
 ## 📸 Cuplikan Tampilan
 
-![Preview Aplikas](images/streamlit map)
+![Preview Aplikas](image/streamlitmap.png)
